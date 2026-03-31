@@ -30,6 +30,6 @@ This project is an AI-based Resume Screening System that analyzes resumes and ge
 - Add database support
 
 ## 👤 Author
-Mohammed Omar Abdullah
-Farhan Aqib Khan
+Mohammed Omar Abdullah,
+Farhan Aqib Khan,
 Hasnain Abdul Kareem
